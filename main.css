@@ -1,0 +1,17 @@
+.services {
+    text-align: center;
+    
+}
+.securty{
+    
+    width: 33.3%;
+    float: left;
+    text-align: center;
+   
+}
+i{
+    background-color: yellow;
+}
+.clear{
+    clear: both;
+}
